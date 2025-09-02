@@ -17,10 +17,9 @@ $:
         - docker
       stages:
         - name: 开始保活
-          script: ls
-#          script: bash /workspace/start.sh
+          script: bash /workspace/start.sh
 
-#      endStages:
-#        - name: 保存配置
-#          script: 
-#            - bash ./gitpush.sh
+      endStages:
+        - name: 保存配置
+          script: 
+            - bash ./gitpush.sh
