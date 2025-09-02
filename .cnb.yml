@@ -1,0 +1,26 @@
+# .cnb.yml
+$:
+  # vscode 事件：专供页面中启动远程开发用
+  vscode:
+    - docker:
+        # image: docker.cnb.cool/vmss/nagaagent
+        build: ./.ide/Dockerfile
+      env:
+        CUDA_LAUNCH_BLOCKING: 1
+        # CNB_WELCOME_CMD: bash /workspace/start.sh
+      runner:
+        cpus: 32
+        # tags: cnb:arch:amd64:gpu:L20
+        # tags: cnb:arch:amd64:gpu
+      services:
+        - vscode
+        - docker
+      stages:
+        - name: 开始保活
+          script: ls
+#          script: bash /workspace/start.sh
+
+#      endStages:
+#        - name: 保存配置
+#          script: 
+#            - bash ./gitpush.sh
