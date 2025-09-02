@@ -1,0 +1,17 @@
+[09/02 10:32:03] [INFO] Number of local users: 0
+[09/02 10:32:03] [INFO] Attempting to read local daemon /workspace/daemon/data/Config/global.json
+[09/02 10:32:03] [INFO] Detected local daemon, automatically obtaining key and port...
+[09/02 10:32:03] [INFO] Attempting to connect to remote daemon:Name:  | ID: 4fb4a14f2b574a72be5364db7de32065 | URL: ws://localhost:24444
+[09/02 10:32:03] [INFO] Number of remote daemons: 1
+[09/02 10:32:03] [INFO] ==================================
+[09/02 10:32:03] [INFO] Control panel has started
+[09/02 10:32:03] [INFO] Project Reference: https://github.com/mcsmanager
+[09/02 10:32:03] [INFO] Access URL: http://localhost:23333
+[09/02 10:32:03] [INFO] Public access requires opening ports 23333 and the daemon's port.
+[09/02 10:32:03] [INFO] You can use the Ctrl+C shortcut to close the program
+[09/02 10:32:03] [INFO] ==================================
+[09/02 10:32:04] [INFO] Connected to remote daemon Name:  | ID: 4fb4a14f2b574a72be5364db7de32065 | URL: ws://localhost:24444
+[09/02 10:32:04] [INFO] Set daemon language (localhost:24444/) language: en_us
+[09/02 10:32:04] [INFO] Remote daemon Name:  | ID: 4fb4a14f2b574a72be5364db7de32065 | URL: ws://localhost:24444 key validation successful
+[09/02 10:33:07] [WARN] Programming language changed zh_cn
+[09/02 10:33:07] [INFO] 设置节点语言 (localhost:24444/) language: zh_cn

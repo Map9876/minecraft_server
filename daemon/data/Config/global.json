@@ -1,0 +1,19 @@
+{
+    "version": 2,
+    "ip": "",
+    "port": 24444,
+    "prefix": "",
+    "key": "7dda449c977549f39d31f494fb74e29b64df2180d3146a6",
+    "maxFileTask": 2,
+    "maxZipFileSize": 200,
+    "language": "zh_cn",
+    "defaultInstancePath": "",
+    "allocatablePortRange": [
+        10010,
+        65500
+    ],
+    "currentAllocatablePort": 10015,
+    "portAssignInterval": 5,
+    "uploadSpeedRate": 0,
+    "downloadSpeedRate": 0
+}

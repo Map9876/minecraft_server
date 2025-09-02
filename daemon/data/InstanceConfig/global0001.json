@@ -1,0 +1,62 @@
+{
+    "nickname": "__MCSM_GLOBAL_INSTANCE__",
+    "startCommand": "bash",
+    "stopCommand": "^c",
+    "cwd": "/",
+    "ie": "utf8",
+    "oe": "utf8",
+    "createDatetime": 1756780323627,
+    "lastDatetime": 1756780323627,
+    "type": "universal",
+    "tag": [],
+    "endTime": 0,
+    "fileCode": "utf8",
+    "processType": "general",
+    "updateCommand": "",
+    "runAs": "",
+    "crlf": 1,
+    "category": 0,
+    "basePort": 10010,
+    "enableRcon": false,
+    "rconPassword": "",
+    "rconPort": 0,
+    "rconIp": "",
+    "actionCommandList": [],
+    "terminalOption": {
+        "haveColor": false,
+        "pty": true,
+        "ptyWindowCol": 164,
+        "ptyWindowRow": 40
+    },
+    "eventTask": {
+        "autoStart": false,
+        "autoRestart": false,
+        "ignore": false
+    },
+    "docker": {
+        "containerName": "",
+        "image": "",
+        "ports": [],
+        "extraVolumes": [],
+        "memory": 0,
+        "networkMode": "bridge",
+        "networkAliases": [],
+        "cpusetCpus": "",
+        "cpuUsage": 0,
+        "maxSpace": 0,
+        "io": 0,
+        "network": 0,
+        "workingDir": "/workspace/",
+        "env": [],
+        "changeWorkdir": true
+    },
+    "pingConfig": {
+        "ip": "",
+        "port": 25565,
+        "type": 1
+    },
+    "extraServiceConfig": {
+        "openFrpTunnelId": "",
+        "openFrpToken": ""
+    }
+}
