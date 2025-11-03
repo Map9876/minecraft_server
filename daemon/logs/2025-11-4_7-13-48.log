@@ -1,0 +1,16 @@
+[09/02 10:32:03] [INFO] All feature modules and permission firewalls have been initialized successfully
+[09/02 10:32:03] [INFO] LANGUAGE: en_us
+[09/02 10:32:03] [INFO] Welcome to MCSManager Daemon
+[09/02 10:32:03] [INFO] All 0 instances have been loaded.
+[09/02 10:32:03] [INFO] ----------------------------
+[09/02 10:32:03] [INFO] Daemon process has been successfully started
+[09/02 10:32:03] [INFO] Reference Documentation: https://docs.mcsmanager.com/
+[09/02 10:32:03] [INFO] Access URL: http://<IP address>:24444/ or ws://<IP address>:24444
+[09/02 10:32:03] [INFO] Configuration File: data/Config/global.json
+[09/02 10:32:03] [INFO] Access Key: 7dda449c977549f39d31f494fb74e29b64df2180d3146a6
+[09/02 10:32:03] [INFO] The key is the sole authentication method. Please connect using daemons section of MCSManager panel.
+[09/02 10:32:03] [INFO] You can use the Ctrl+C shortcut to close the program
+[09/02 10:32:03] [INFO] ----------------------------
+[09/02 10:32:04] [INFO] Session Bq01hTLZOFEW5hauAAAB (::ffff:127.0.0.1) has successfully authenticated
+[09/02 10:32:04] [WARN] Node language has been changed: en_us
+[09/02 10:33:07] [WARN] Node language has been changed: zh_cn

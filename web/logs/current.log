@@ -1,17 +1,13 @@
-[09/02 10:32:03] [INFO] Number of local users: 0
-[09/02 10:32:03] [INFO] Attempting to read local daemon /workspace/daemon/data/Config/global.json
-[09/02 10:32:03] [INFO] Detected local daemon, automatically obtaining key and port...
-[09/02 10:32:03] [INFO] Attempting to connect to remote daemon:Name:  | ID: 4fb4a14f2b574a72be5364db7de32065 | URL: ws://localhost:24444
-[09/02 10:32:03] [INFO] Number of remote daemons: 1
-[09/02 10:32:03] [INFO] ==================================
-[09/02 10:32:03] [INFO] Control panel has started
-[09/02 10:32:03] [INFO] Project Reference: https://github.com/mcsmanager
-[09/02 10:32:03] [INFO] Access URL: http://localhost:23333
-[09/02 10:32:03] [INFO] Public access requires opening ports 23333 and the daemon's port.
-[09/02 10:32:03] [INFO] You can use the Ctrl+C shortcut to close the program
-[09/02 10:32:03] [INFO] ==================================
-[09/02 10:32:04] [INFO] Connected to remote daemon Name:  | ID: 4fb4a14f2b574a72be5364db7de32065 | URL: ws://localhost:24444
-[09/02 10:32:04] [INFO] Set daemon language (localhost:24444/) language: en_us
-[09/02 10:32:04] [INFO] Remote daemon Name:  | ID: 4fb4a14f2b574a72be5364db7de32065 | URL: ws://localhost:24444 key validation successful
-[09/02 10:33:07] [WARN] Programming language changed zh_cn
-[09/02 10:33:07] [INFO] 设置节点语言 (localhost:24444/) language: zh_cn
+[11/04 07:13:48] [INFO] 本地用户数：0
+[11/04 07:13:48] [INFO] 正在尝试连接远程节点:Name:  | ID: 4fb4a14f2b574a72be5364db7de32065 | URL: ws://localhost:24444
+[11/04 07:13:48] [INFO] 远程节点数：1
+[11/04 07:13:48] [INFO] ==================================
+[11/04 07:13:48] [INFO] 控制面板端已启动
+[11/04 07:13:48] [INFO] 项目参考: https://github.com/mcsmanager
+[11/04 07:13:48] [INFO] 访问地址: http://localhost:23333
+[11/04 07:13:48] [INFO] 软件公网访问需开放端口 23333 与守护进程端口
+[11/04 07:13:48] [INFO] 你可以使用 Ctrl+C 快捷键即可关闭程序
+[11/04 07:13:48] [INFO] ==================================
+[11/04 07:13:48] [INFO] 远程节点 Name:  | ID: 4fb4a14f2b574a72be5364db7de32065 | URL: ws://localhost:24444 已连接
+[11/04 07:13:48] [INFO] 设置节点语言 (localhost:24444/) language: zh_cn
+[11/04 07:13:48] [INFO] 远程节点 Name:  | ID: 4fb4a14f2b574a72be5364db7de32065 | URL: ws://localhost:24444 密钥验证通过
