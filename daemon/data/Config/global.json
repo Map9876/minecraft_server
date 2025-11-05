@@ -12,7 +12,7 @@
         10010,
         65500
     ],
-    "currentAllocatablePort": 10020,
+    "currentAllocatablePort": 10025,
     "portAssignInterval": 5,
     "uploadSpeedRate": 0,
     "downloadSpeedRate": 0
