@@ -1,0 +1,15 @@
+[11/15 05:50:52] [INFO] All feature modules and permission firewalls have been initialized successfully
+[11/15 05:50:52] [INFO] LANGUAGE: zh_cn
+[11/15 05:50:52] [INFO] 欢迎使用 MCSManager 守护进程
+[11/15 05:50:52] [INFO] 所有应用实例已加载，总计 0 个
+[11/15 05:50:52] [INFO] ----------------------------
+[11/15 05:50:52] [INFO] 守护进程现已成功启动
+[11/15 05:50:52] [INFO] 参考文档：https://docs.mcsmanager.com/
+[11/15 05:50:52] [INFO] 访问地址：http://<IP地址>:24444/ 或 ws://<IP地址>:24444
+[11/15 05:50:52] [INFO] 配置文件：data/Config/global.json
+[11/15 05:50:52] [INFO] 访问密钥：7dda449c977549f39d31f494fb74e29b64df2180d3146a6
+[11/15 05:50:52] [INFO] 密钥作为唯一认证方式，请使用 MCSManager 面板的节点功能连接程序
+[11/15 05:50:52] [INFO] 你可以使用 Ctrl+C 快捷键即可关闭程序
+[11/15 05:50:52] [INFO] ----------------------------
+[11/15 05:50:52] [INFO] 会话 QXDUvq14uEROkU7uAAAB(::ffff:127.0.0.1) 验证身份成功
+[11/15 05:50:52] [WARN] 节点语言已更改： zh_cn
